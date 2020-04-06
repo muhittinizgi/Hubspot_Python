@@ -1,0 +1,26 @@
+[
+  {
+    "firstname": "Metin",
+    "lastname": "Ozel",
+    "email": "metinoz@gmail.com",
+    "phone": 2012023456,
+    "company": "Software LLC",
+    "website": "https://google.com",
+    "employees_count": "11 to 25",
+    "country": "Turkey",
+    "marketting": "Yes",
+    "text": "That is an ordinary message"
+  },
+  {
+    "firstname": "Ayse",
+    "lastname": "Sevgi",
+    "email": "ayse@gmail.com",
+    "phone": 2013145678,
+    "company": "Hardware LLC",
+    "website": "https://yahoo.com",
+    "employees_count": "11 to 25",
+    "country": "Germany",
+    "marketting": "Yes",
+    "text": "Message only"
+  }
+]

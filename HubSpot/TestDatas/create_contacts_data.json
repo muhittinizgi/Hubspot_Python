@@ -1,0 +1,26 @@
+[
+  {
+    "email": "vahid@hotmail.com",
+    "fname": "Vahid",
+    "lname": "Ruzgar",
+    "jobtitle": "Software Developer",
+    "phone": "988 023 0000",
+    "status": "New"
+  },
+  {
+    "email": "rana@hotmail.com",
+    "fname": "Rana",
+    "lname": "Eksi",
+    "jobtitle": "Software Developer",
+    "phone": "988 023 1111",
+    "status": "Open"
+  },
+  {
+    "email": "kocaman@hotmail.com",
+    "fname": "Sedat",
+    "lname": "Yazar",
+    "jobtitle": "Software Developer",
+    "phone": "988 023 6666",
+    "status": "New"
+  }
+]

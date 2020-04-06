@@ -1,0 +1,4 @@
+email, fname, lname, jobtitle, phone, status
+"vahid@hotmail.com", "Vahid", "Ruzgar", "Software Developer", "988 023 0000", "New"
+"rana@hotmail.com", "Rana", "Eksi", "Software Developer", "988 023 1111", "Open"
+"kocaman@hotmail.com", "Sedat", "Yazar", "Software Developer", "988 023 6666", "New"
